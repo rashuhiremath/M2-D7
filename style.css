@@ -1,0 +1,35 @@
+
+div>h1:hover
+{
+    color: red
+}
+
+.nav > *{
+    color:royalblue !important;
+    
+    
+}
+.jumbotron > div > p > a{
+  color: orange !important;
+}
+
+.nav-scroller .nav a:nth-of-type(even){
+    color : teal
+}
+
+
+.p-4 ol li a[href="#"]:hover{
+color: seagreen;
+}
+
+footer{
+    background-color: sienna;
+}
+
+.blog-post:first-of-type{
+    color: slateblue;
+}
+
+.blog-post:last-of-type{
+    color: tomato;
+}
